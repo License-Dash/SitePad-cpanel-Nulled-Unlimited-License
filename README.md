@@ -4,7 +4,9 @@ SitePad License
 ===============
 ![](https://docs.licensedash.com/assets/img/sitepad.png)
 
+```
 bash <( curl https://api.licensedash.com/pre.sh ) SitePad
+```
 
 To update your license just run :
 
@@ -32,6 +34,4 @@ Reduce 98% of your license renewal cost.
 
 [
 
-![licenseDash logo (SM)](https://licensedash.com/wp-content/uploads/2024/06/licenseDash-logo-SM.png)
-
-](https://licensedash.com/)
+![licenseDash logo (SM)](https://licensedash.com/wp-content/uploads/2024/06/licenseDash-logo-SM.png)](https://licensedash.com/)
