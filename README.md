@@ -32,6 +32,4 @@ Reduce 98% of your license renewal cost.
 
 ![](https://licensedash.com/wp-content/uploads/2024/06/banner.png)
 
-[
-
-![licenseDash logo (SM)](https://licensedash.com/wp-content/uploads/2024/06/licenseDash-logo-SM.png)](https://licensedash.com/)
+[![licenseDash logo (SM)](https://licensedash.com/wp-content/uploads/2024/06/licenseDash-logo-SM.png)](https://licensedash.com/)]
